@@ -1,0 +1,22 @@
+{
+  "decks": [
+    {
+      "name": "Rendering ",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation.",
+      "id": 3
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 6
+    }
+  ],
+  "cards": [
+    {
+      "front": "Test",
+      "back": "Temp",
+      "deckId": 3,
+      "id": 1
+    }
+  ]
+}
